@@ -1,0 +1,32 @@
+body {
+  text-align: center;
+  font-family: sans-serif;
+}
+
+h1 {
+  color: darkmagenta;
+}
+
+.introducao {
+  color: palevioletred;
+}
+
+.segundafeira {
+  color: green;
+}
+
+p {
+  color: red;
+}
+
+.tercafeira {
+  color: rgb(127, 80, 255);
+}
+
+.quartafeira {
+  color: chartreuse;
+}
+
+h2 {
+  color: rgb(255, 0, 234);
+}
